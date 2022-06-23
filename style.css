@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@100;300&display=swap');
+
+body{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    padding: 20%;
+    color: aqua;
+    font-size: 100px;
+}
